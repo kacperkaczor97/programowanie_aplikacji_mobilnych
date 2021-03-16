@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="wzrost">Wzrost</string>
+    <string name="waga">Waga</string>
+    <string name="oblicz_bmi">Oblicz BMI</string>
+</resources>
